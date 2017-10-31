@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comunicationcentercommon" />
+        <module name="comunicationcentercontroller" />
+        <module name="comunicationcenterservice" />
+        <module name="DB" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="comunicationcenter" target="1.8" />
+      <module name="comunicationcentercommon" target="1.8" />
+      <module name="comunicationcentercontroller" target="1.8" />
+      <module name="comunicationcenterservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

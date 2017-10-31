@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comunicationcenter.iml" filepath="$PROJECT_DIR$/comunicationcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comunicationcentercommon/comunicationcentercommon.iml" filepath="$PROJECT_DIR$/comunicationcentercommon/comunicationcentercommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comunicationcentercontroller/comunicationcentercontroller.iml" filepath="$PROJECT_DIR$/comunicationcentercontroller/comunicationcentercontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comunicationcenterservice/comunicationcenterservice.iml" filepath="$PROJECT_DIR$/comunicationcenterservice/comunicationcenterservice.iml" />
+    </modules>
+  </component>
+</project>
